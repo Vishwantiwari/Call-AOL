@@ -1,0 +1,563 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:react-native-contacts] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-contacts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-async-storage_async-storage] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_app] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-date-picker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-date-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-document-picker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.64.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fec0910b903a57843b4a29ca210c4d55/jetified-react-native-0.64.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2b077dfef3736b46ee67bc6334274dd1/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:17:1-83:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/793441deefd5b986442ce44372808587/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fddce84482a5dd3773f27b5e259c340b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/1fca1722fe4df0b824f449db52609704/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-call-log] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-call-log/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/55840ce325d04197ab81339b36d8d952/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-audio-record] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-audio-record/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-reanimated] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-reanimated/android/build/.transforms/5be6fb66ce6347a28c712a19ced7110c/jetified-react-native-reanimated-64/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f50e7e1669118ff37b7077cc009c2d53/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/efad1c7e70798461354e5eea4674b6df/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/470ace680a172b2a9faf180e29d0f737/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0c64286fb17494edd6318592401957b2/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8c5b1bf73316dc483d50fdd8aca1072f/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b69030a9f174bdf5ffc90fba00afd62f/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e326b81c647dc9dce9770118b3c649dd/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/a1927b86a663e213b5657d342a9b0eaa/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ab7f7352b4e03370bfc1cf6f40d0f404/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/024d05cd3da836a17d54a73ad3d7e213/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/bf7d0a679ab31cac81fe2491f798a624/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/1d67a4a86060db9f07f4b0c9c7fda7a1/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f08b57e9d933ade808f4a4efd9f5a80a/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/54f929e1b8a52d1f30835e318406b59d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b4449e5d2d176279f928d59891da84ae/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6bf9e84334586a904cec91e6fe4e178f/jetified-play-services-vision-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2b99cbdcda520ab85fdd460752aca980/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8456c5e60632f00aa2f5036b2195246d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0b64d34ca01f769fbf800107e621f1dc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/af0682f5e6c4e7a0cff4ef51be03c526/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/5dde6e44ba93ca4bd795866874d27cdb/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ca14cbce0a6db288e75a593c000627fe/jetified-play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/24194b816421f6671a0d53d38475e27e/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b39ac8101d9e343780d14b7fdd3e00cb/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c50055264885a1d009e0dd739fc14b8b/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2647b9527473fdbaebc4e2ace445f12b/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/21f55c2115970a2e03190913b17bc708/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/dc3a9d1885478d41ef1f8b0b833b117c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/babe8fa05a4129224627c4ade2ab0a85/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/3be33dfac358f307a10f7e2e188db634/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fb647f90de61012d58a426369d1f43e3/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8d1c6524e80b50f92562e5d8e6ad310b/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6035b6b8e88a7be57ecbb586bb7aa60b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/cb8a1912d19d80365d62784807545ec3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d51c6174246c6301b3c3c54fe2a21ff4/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8498598dfc491c63de4cdc65535f152c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b86cae0f489c980d14103106e8217309/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/3a49618e03cdbe63353135d9270a5aaa/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d7dbce70804f42100cc69dc0ed0a77fb/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f21902299f44c912136fd507827b71ea/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ea4485393e6ccd66d00df2648eface50/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/aa041a171534af84653f51570cd4df5b/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d9c0f25c6317fc9ee5835b0ddd7f7af6/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f542d85e5b584daae5ff98f59a201f1d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f90f5b3fc517d3959586035b9ea88fc3/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/207d1019a6e4dbea251f135403f78e6e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/beae2cce10e96eeeeab77a80c7e59f89/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/adb360d8d313f872172e6608fa13a2c3/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/379996de2fa1dc67efde05c16216ab9d/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d1351874bc69ed2f42c506b14b602472/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/547278108641019afd23141deaff76eb/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/453afa596ed63023ca3ec49ef55081e4/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0920e9af7ad51f7ff5737af1ab5547b5/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2a6c71f860293479967b76ef57db1644/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.henninghall.android:NumberPickerView:1.1.5] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/46b46888449efa810ac98438bac78b7a/jetified-NumberPickerView-1.1.5/AndroidManifest.xml:2:1-11:12
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b1198a1ec7e1616cf029d5eefbd26fc8/jetified-time4j-android-4.2-2018i/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/76a1848788b125f858821426aa03dc6f/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:7:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:12:1-77
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:12:18-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:13:1-66
+MERGED from [:react-native-audio-record] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-audio-record/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
+MERGED from [:react-native-audio-record] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-audio-record/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:13:18-64
+application
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:14:5-32:19
+MERGED from [:react-native-community_datetimepicker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fec0910b903a57843b4a29ca210c4d55/jetified-react-native-0.64.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fec0910b903a57843b4a29ca210c4d55/jetified-react-native-0.64.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f50e7e1669118ff37b7077cc009c2d53/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f50e7e1669118ff37b7077cc009c2d53/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/efad1c7e70798461354e5eea4674b6df/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/efad1c7e70798461354e5eea4674b6df/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/bf7d0a679ab31cac81fe2491f798a624/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/bf7d0a679ab31cac81fe2491f798a624/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6bf9e84334586a904cec91e6fe4e178f/jetified-play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6bf9e84334586a904cec91e6fe4e178f/jetified-play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8456c5e60632f00aa2f5036b2195246d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8456c5e60632f00aa2f5036b2195246d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0b64d34ca01f769fbf800107e621f1dc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0b64d34ca01f769fbf800107e621f1dc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/5dde6e44ba93ca4bd795866874d27cdb/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/5dde6e44ba93ca4bd795866874d27cdb/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/24194b816421f6671a0d53d38475e27e/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/24194b816421f6671a0d53d38475e27e/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b39ac8101d9e343780d14b7fdd3e00cb/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b39ac8101d9e343780d14b7fdd3e00cb/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/aa041a171534af84653f51570cd4df5b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/aa041a171534af84653f51570cd4df5b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f542d85e5b584daae5ff98f59a201f1d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f542d85e5b584daae5ff98f59a201f1d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b1198a1ec7e1616cf029d5eefbd26fc8/jetified-time4j-android-4.2-2018i/AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b1198a1ec7e1616cf029d5eefbd26fc8/jetified-time4j-android-4.2-2018i/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/aa041a171534af84653f51570cd4df5b/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:roundIcon
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:18:7-52
+	android:icon
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:19:7-34
+	android:theme
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:20:7-38
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:15:7-38
+activity#com.myapp.MainActivity
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:21:7-31:18
+	android:label
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:23:9-41
+	android:launchMode
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:25:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:26:9-51
+	android:configChanges
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:24:9-86
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:22:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml:29:23-70
+uses-sdk
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-contacts] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-contacts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-contacts] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-contacts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-date-picker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-date-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-date-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fec0910b903a57843b4a29ca210c4d55/jetified-react-native-0.64.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fec0910b903a57843b4a29ca210c4d55/jetified-react-native-0.64.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2b077dfef3736b46ee67bc6334274dd1/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2b077dfef3736b46ee67bc6334274dd1/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/793441deefd5b986442ce44372808587/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/793441deefd5b986442ce44372808587/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fddce84482a5dd3773f27b5e259c340b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fddce84482a5dd3773f27b5e259c340b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/1fca1722fe4df0b824f449db52609704/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/1fca1722fe4df0b824f449db52609704/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-call-log] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-call-log/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-call-log] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-call-log/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/55840ce325d04197ab81339b36d8d952/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/55840ce325d04197ab81339b36d8d952/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-audio-record] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-audio-record/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-audio-record] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-audio-record/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-reanimated/android/build/.transforms/5be6fb66ce6347a28c712a19ced7110c/jetified-react-native-reanimated-64/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-reanimated/android/build/.transforms/5be6fb66ce6347a28c712a19ced7110c/jetified-react-native-reanimated-64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f50e7e1669118ff37b7077cc009c2d53/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f50e7e1669118ff37b7077cc009c2d53/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/efad1c7e70798461354e5eea4674b6df/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/efad1c7e70798461354e5eea4674b6df/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/470ace680a172b2a9faf180e29d0f737/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/470ace680a172b2a9faf180e29d0f737/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0c64286fb17494edd6318592401957b2/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0c64286fb17494edd6318592401957b2/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8c5b1bf73316dc483d50fdd8aca1072f/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8c5b1bf73316dc483d50fdd8aca1072f/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b69030a9f174bdf5ffc90fba00afd62f/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b69030a9f174bdf5ffc90fba00afd62f/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e326b81c647dc9dce9770118b3c649dd/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e326b81c647dc9dce9770118b3c649dd/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/a1927b86a663e213b5657d342a9b0eaa/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/a1927b86a663e213b5657d342a9b0eaa/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ab7f7352b4e03370bfc1cf6f40d0f404/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ab7f7352b4e03370bfc1cf6f40d0f404/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/024d05cd3da836a17d54a73ad3d7e213/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/024d05cd3da836a17d54a73ad3d7e213/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/bf7d0a679ab31cac81fe2491f798a624/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/bf7d0a679ab31cac81fe2491f798a624/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/1d67a4a86060db9f07f4b0c9c7fda7a1/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/1d67a4a86060db9f07f4b0c9c7fda7a1/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f08b57e9d933ade808f4a4efd9f5a80a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f08b57e9d933ade808f4a4efd9f5a80a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/54f929e1b8a52d1f30835e318406b59d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/54f929e1b8a52d1f30835e318406b59d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b4449e5d2d176279f928d59891da84ae/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b4449e5d2d176279f928d59891da84ae/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6bf9e84334586a904cec91e6fe4e178f/jetified-play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6bf9e84334586a904cec91e6fe4e178f/jetified-play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2b99cbdcda520ab85fdd460752aca980/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2b99cbdcda520ab85fdd460752aca980/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8456c5e60632f00aa2f5036b2195246d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8456c5e60632f00aa2f5036b2195246d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0b64d34ca01f769fbf800107e621f1dc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0b64d34ca01f769fbf800107e621f1dc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/af0682f5e6c4e7a0cff4ef51be03c526/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/af0682f5e6c4e7a0cff4ef51be03c526/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/5dde6e44ba93ca4bd795866874d27cdb/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/5dde6e44ba93ca4bd795866874d27cdb/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ca14cbce0a6db288e75a593c000627fe/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ca14cbce0a6db288e75a593c000627fe/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/24194b816421f6671a0d53d38475e27e/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/24194b816421f6671a0d53d38475e27e/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b39ac8101d9e343780d14b7fdd3e00cb/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b39ac8101d9e343780d14b7fdd3e00cb/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c50055264885a1d009e0dd739fc14b8b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c50055264885a1d009e0dd739fc14b8b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2647b9527473fdbaebc4e2ace445f12b/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2647b9527473fdbaebc4e2ace445f12b/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/21f55c2115970a2e03190913b17bc708/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/21f55c2115970a2e03190913b17bc708/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/dc3a9d1885478d41ef1f8b0b833b117c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/dc3a9d1885478d41ef1f8b0b833b117c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/babe8fa05a4129224627c4ade2ab0a85/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/babe8fa05a4129224627c4ade2ab0a85/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/3be33dfac358f307a10f7e2e188db634/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/3be33dfac358f307a10f7e2e188db634/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fb647f90de61012d58a426369d1f43e3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/fb647f90de61012d58a426369d1f43e3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8d1c6524e80b50f92562e5d8e6ad310b/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8d1c6524e80b50f92562e5d8e6ad310b/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6035b6b8e88a7be57ecbb586bb7aa60b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/6035b6b8e88a7be57ecbb586bb7aa60b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/cb8a1912d19d80365d62784807545ec3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/cb8a1912d19d80365d62784807545ec3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d51c6174246c6301b3c3c54fe2a21ff4/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d51c6174246c6301b3c3c54fe2a21ff4/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8498598dfc491c63de4cdc65535f152c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8498598dfc491c63de4cdc65535f152c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b86cae0f489c980d14103106e8217309/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b86cae0f489c980d14103106e8217309/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/3a49618e03cdbe63353135d9270a5aaa/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/3a49618e03cdbe63353135d9270a5aaa/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d7dbce70804f42100cc69dc0ed0a77fb/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d7dbce70804f42100cc69dc0ed0a77fb/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f21902299f44c912136fd507827b71ea/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f21902299f44c912136fd507827b71ea/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ea4485393e6ccd66d00df2648eface50/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/ea4485393e6ccd66d00df2648eface50/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/aa041a171534af84653f51570cd4df5b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/aa041a171534af84653f51570cd4df5b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d9c0f25c6317fc9ee5835b0ddd7f7af6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d9c0f25c6317fc9ee5835b0ddd7f7af6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f542d85e5b584daae5ff98f59a201f1d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f542d85e5b584daae5ff98f59a201f1d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f90f5b3fc517d3959586035b9ea88fc3/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/f90f5b3fc517d3959586035b9ea88fc3/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/207d1019a6e4dbea251f135403f78e6e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/207d1019a6e4dbea251f135403f78e6e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/beae2cce10e96eeeeab77a80c7e59f89/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/beae2cce10e96eeeeab77a80c7e59f89/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/adb360d8d313f872172e6608fa13a2c3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/adb360d8d313f872172e6608fa13a2c3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/379996de2fa1dc67efde05c16216ab9d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/379996de2fa1dc67efde05c16216ab9d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d1351874bc69ed2f42c506b14b602472/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/d1351874bc69ed2f42c506b14b602472/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/547278108641019afd23141deaff76eb/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/547278108641019afd23141deaff76eb/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/453afa596ed63023ca3ec49ef55081e4/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/453afa596ed63023ca3ec49ef55081e4/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0920e9af7ad51f7ff5737af1ab5547b5/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0920e9af7ad51f7ff5737af1ab5547b5/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2a6c71f860293479967b76ef57db1644/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/2a6c71f860293479967b76ef57db1644/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.henninghall.android:NumberPickerView:1.1.5] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/46b46888449efa810ac98438bac78b7a/jetified-NumberPickerView-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.henninghall.android:NumberPickerView:1.1.5] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/46b46888449efa810ac98438bac78b7a/jetified-NumberPickerView-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b1198a1ec7e1616cf029d5eefbd26fc8/jetified-time4j-android-4.2-2018i/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/b1198a1ec7e1616cf029d5eefbd26fc8/jetified-time4j-android-4.2-2018i/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/76a1848788b125f858821426aa03dc6f/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/76a1848788b125f858821426aa03dc6f/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwantiwari/Desktop/Call-Aol/android/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:15:9-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.4] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/e9bf0969e1b857ad0649f75479880a5d/jetified-firebase-auth-20.0.4/AndroidManifest.xml:78:17-109
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from [:react-native-call-log] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-call-log/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from [:react-native-call-log] /Users/vishwantiwari/Desktop/Call-Aol/node_modules/react-native-call-log/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-69
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/8ce161fecbc9055a06e52f06a0784b78/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0765234b419e22ef81815fff0095ebeb/jetified-play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/0248adee8954c308b23d0aca169cff75/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/vishwantiwari/.gradle/caches/transforms-2/files-2.1/c3952dad464aaee3d2d10b29165137d9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58

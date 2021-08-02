@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/198887054/myapp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/198887054/myapp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/849667777/myapp.react-native-audio-record.iml" filepath="$PROJECT_DIR$/.idea/modules/849667777/myapp.react-native-audio-record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-569588882/myapp.react-native-call-log.iml" filepath="$PROJECT_DIR$/.idea/modules/-569588882/myapp.react-native-call-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/681876862/myapp.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/681876862/myapp.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1207635590/myapp.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1207635590/myapp.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-674268214/myapp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-674268214/myapp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/210768492/myapp.react-native-contacts.iml" filepath="$PROJECT_DIR$/.idea/modules/210768492/myapp.react-native-contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/702214548/myapp.react-native-date-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/702214548/myapp.react-native-date-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-404210425/myapp.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-404210425/myapp.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-877441424/myapp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-877441424/myapp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2117162233/myapp.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/2117162233/myapp.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/691509325/myapp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/691509325/myapp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1740130735/myapp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1740130735/myapp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-528101002/myapp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-528101002/myapp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1188850958/myapp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1188850958/myapp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-79353175/myapp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-79353175/myapp.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
